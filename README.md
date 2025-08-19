@@ -1,6 +1,6 @@
 # Spaceship Website
 
-HTML, CSS, and Javascript spaceship dashboard theme.
+HTML, CSS, and Javascript spaceship dashboard design
 
 ## License & Attribution
 
